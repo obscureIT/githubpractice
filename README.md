@@ -1,2 +1,2 @@
 #Myapp
-This is just a persona practice repo for github
+This is just a personal practice repo for github
