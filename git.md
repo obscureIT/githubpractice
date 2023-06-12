@@ -16,7 +16,7 @@ or you can just save changes of only one file
 
 ### git add fileName.extension
 
-5. now when you want your code on git - which is in your local directory to be accessible to people or developers all around the world to download or do whatever they want, you have to push do the following
+5. now when you want your code on git - which is in your local directory to be accessible to people or developers all around the world to download or do whatever they want, you have to 'push' to github. do the following
 
 ### create a new github repository
 ### 
